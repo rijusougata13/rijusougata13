@@ -10,9 +10,8 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i play fps games
 
-  
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=rijusougata13&&show_icons=true&theme=tokyonight"> -->
 ### 🏆 My GitHub Stats: 
-![rijusougata13's github stats](https://github-readme-stats.vercel.app/api?username=rijusougata13&show_icons=true&include_all_commits=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijusougata13&theme=dracula)
+![rijusougata13's github stats](https://github-readme-stats.vercel.app/api?username=rijusougata13&show_icons=true&include_all_commits=true&theme=dracula)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rijusougata13&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijusougata13&theme=dracula)
