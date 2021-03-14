@@ -18,7 +18,7 @@
 - 📫 How to reach me: rijusougata13@gmail.com
 - 😄 Pronouns: he/his
 - 🎯 Portfolio site: [Portfolio](https://rijusougata13.netlify.app/)
-- ⚡ Fun fact: i play fps games
+- ⚡ Fun fact: i play fps gamess
 
 ### 🐱‍💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
