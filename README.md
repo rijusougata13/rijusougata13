@@ -8,7 +8,6 @@
 
 ### Hi there 👋
 
-
 - 🔭 I’m currently working as a student
 - 🌱 I’m currently learning django,c++,dsalgo
 - 👯 I’m looking to collaborate on python development
