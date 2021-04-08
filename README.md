@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijusougata13&label=Profile%20views&color=0e75b6&style=flat" alt="sougata das" /> </p>
 
+
  
  
 [![Twitter Badge](https://img.shields.io/badge/-@rijusougata13-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rijusougata13)](https://twitter.com/rijusougata13) 
