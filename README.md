@@ -12,13 +12,15 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working as a student
-- 🌱 I’m currently learning django,c++,dsalgo
-- 👯 I’m looking to collaborate on python development
+- 🔭 I’m currently a fullstack developer
+- 🌱 I’m currently learning everything
+- 👯 I’m looking for remote opportunities
 - 🤔 I’m looking for help with competive programming,web development
 - ⚡  Front-end development using **HTML, Javascript,CSS,Bootstrap, React**
-- 💬 Ask me about competive programming,python
+- ⚡  Back-end development using **Node,Ruby**
+- 💬 Ask me about competive programming, web-technologies
 - 📫 How to reach me: rijusougata13@gmail.com
+- 😀 Resume: https://drive.google.com/file/d/1gh3PbhUc60IZPnxj4a0ivb5r0yigwbRh/view?usp=sharing
 - 😄 Pronouns: he/his
 - 🎯 Portfolio site: [Portfolio](https://rijusougata13.netlify.app/)
 - ⚡ Fun fact: i play fps gamess
