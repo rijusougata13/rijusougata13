@@ -22,7 +22,7 @@
 - 📫 How to reach me: rijusougata13@gmail.com
 - 😀 Resume: [https://drive.google.com/file/d/1gh3PbhUc60IZPnxj4a0ivb5r0yigwbRh/view?usp=sharing](https://drive.google.com/file/d/1xWxpVAwdEX2uTrJNaNhNQIiWlp8yk1jd/view?usp=sharing)
 - 😄 Pronouns: he/his
-- 🎯 Portfolio site: [Portfolio](https://rijusougata13.netlify.app/)
+- 🎯 Portfolio site: [Portfolio](https://rijusougata13.com/)
 - ⚡ Fun fact: i play fps gamess
 
 ### 🐱‍💻 Languages and Tools:
